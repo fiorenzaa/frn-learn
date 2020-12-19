@@ -1,0 +1,6 @@
+Hello World!
+
+This time I'm learning how to use github
+
+Why?
+Because I have a task from my lecturer to make a simple game
